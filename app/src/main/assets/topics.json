@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Fitness",
+    "summary": "Calories matter, protein is key, lift weights, MADE A CHANGE HERE",
+    "count": 5
+  },
+  {
+    "title": "Productivity",
+    "summary": "Deep work, avoid distractions, morning routine",
+    "count": 3
+  },
+  {
+    "title": "Investing",
+    "summary": "Index funds, long-term mindset, risk management",
+    "count": 4
+  },
+  {
+    "title": "Cooking",
+    "summary": "Simple recipes, prep ahead, use fresh ingredients",
+    "count": 2
+  }
+]
